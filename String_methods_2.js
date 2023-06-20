@@ -11,3 +11,5 @@ console.log(name5);
 let name = "harry";
 console.log(name[0]);
 console.log(name[1]);
+
+
